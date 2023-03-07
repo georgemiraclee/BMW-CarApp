@@ -86,7 +86,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Gasoline"
+                    android:text="3.0L Turbo Gasoline"
                     android:layout_marginLeft="40dp"
                     android:textSize="18dp"/>
                 <TextView
@@ -128,7 +128,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Gasoline"
+                    android:text="2.0L Turbo Gasoline"
                     android:layout_marginLeft="40dp"
                     android:textSize="18dp"/>
                 <TextView
@@ -173,7 +173,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Gasoline"
+                    android:text="3.0L Twin Turbo Gasoline"
                     android:layout_marginLeft="40dp"
                     android:textSize="18dp"/>
                 <TextView
