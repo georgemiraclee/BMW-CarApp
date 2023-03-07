@@ -78,7 +78,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="BMW Series 4 Coupe"
+                    android:text="BMW 440i M Sport Coupe"
                     android:layout_marginLeft="40dp"
                     android:textSize="20dp"
                     android:textStyle="bold"
@@ -120,7 +120,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="BMW Series 4 Coupe"
+                    android:text="BMW 430i Convertible"
                     android:layout_marginLeft="40dp"
                     android:textSize="20dp"
                     android:textStyle="bold"
@@ -131,6 +131,13 @@
                     android:text="Gasoline"
                     android:layout_marginLeft="40dp"
                     android:textSize="18dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Start From Rp 1.925.000.000"
+                    android:layout_marginLeft="40dp"
+                    android:textSize="15dp"
+                    android:textColor="#A9A9A9"/>
 
 
                 <View
@@ -151,14 +158,14 @@
                 <ImageView
                     android:layout_width="275dp"
                     android:layout_height="180dp"
-                    android:src="@drawable/mobil"
+                    android:src="@drawable/blackm3"
                     android:scaleType="fitCenter"
                     android:layout_marginLeft="40dp"
                     />
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="BMW Series 4 Coupe"
+                    android:text="BMW M3"
                     android:layout_marginLeft="40dp"
                     android:textSize="20dp"
                     android:textStyle="bold"
@@ -169,6 +176,13 @@
                     android:text="Gasoline"
                     android:layout_marginLeft="40dp"
                     android:textSize="18dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Start From Rp 2.225.000.000"
+                    android:layout_marginLeft="40dp"
+                    android:textColor="#A9A9A9"
+                    />
                 <View
                     android:layout_below="@+id/title_find"
                     android:layout_marginLeft="75dp"
