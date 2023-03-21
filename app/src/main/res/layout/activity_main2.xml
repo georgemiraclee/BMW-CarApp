@@ -62,7 +62,7 @@
             android:textSize="25sp"
             android:textStyle="bold|normal" />
 
-        <View
+            <View
             android:layout_below="@+id/title_find"
             android:layout_marginLeft="25dp"
             android:layout_marginTop="10dp"
@@ -86,33 +86,12 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:layout_width="275dp"
+                    android:layout_width="wrap_content"
                     android:layout_height="180dp"
                     android:layout_marginLeft="40dp"
                     android:scaleType="fitCenter"
-                    android:src="@drawable/mobil" />
+                    android:src="@drawable/seatcontrol" />
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="BMW 440i M Sport Coupe"
-                    android:layout_marginLeft="40dp"
-                    android:textSize="20dp"
-                    android:textStyle="bold"
-                    />
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="3.0L Turbo Gasoline"
-                    android:layout_marginLeft="40dp"
-                    android:textSize="18dp"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:text="Start From Rp 1.635.000.00"
-                    android:layout_marginLeft="40dp"
-                    android:textSize="15dp"
-                    android:textColor="#A9A9A9"/>
                 <View
                     android:layout_below="@+id/title_find"
                     android:layout_marginLeft="75dp"
@@ -121,23 +100,18 @@
                     android:visibility="visible"
                     android:layout_height="2px"
                     android:background="#646464"/>
+
             </LinearLayout>
             <LinearLayout
                 android:layout_width="400dp"
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:orientation="vertical">
-                <ImageView
-                    android:layout_width="275dp"
-                    android:layout_height="180dp"
-                    android:src="@drawable/bmw4conv"
-                    android:scaleType="fitCenter"
-                    android:layout_marginLeft="40dp"
-                    />
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="BMW 430i Convertible"
+                    android:text="Adjust Cockpit and Seat"
                     android:layout_marginLeft="40dp"
                     android:textSize="20dp"
                     android:textStyle="bold"
@@ -145,13 +119,13 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="2.0L Turbo Gasoline"
+                    android:text="Move the adjusting switch as shown to the desired position."
                     android:layout_marginLeft="40dp"
                     android:textSize="18dp"/>
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Start From Rp 1.925.000.000"
+                    android:text="By BMW Tech"
                     android:layout_marginLeft="40dp"
                     android:textSize="15dp"
                     android:textColor="#A9A9A9"/>
@@ -172,13 +146,7 @@
                 android:layout_height="wrap_content"
                 android:textAlignment="center"
                 android:orientation="vertical">
-                <ImageView
-                    android:layout_width="275dp"
-                    android:layout_height="180dp"
-                    android:src="@drawable/blackm3"
-                    android:scaleType="fitCenter"
-                    android:layout_marginLeft="40dp"
-                    />
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
